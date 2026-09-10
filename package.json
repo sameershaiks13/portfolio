@@ -58,7 +58,8 @@
       },
         "scripts": {
           "dev": "vite",
-          "build": "vite build",
+          "build": "npm run approve-scripts && vite build", 
+  "approve-scripts": "npx @lavamoat/allow-scripts auto",
           "preview": "vite preview"
         }
 }
