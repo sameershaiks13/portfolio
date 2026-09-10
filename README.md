@@ -1,85 +1,253 @@
-# 💻 Kunj Desai — Portfolio Website 2
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
+# 🌐 Asif Portfolio
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.Netligy.app/)
-
-🖼️ **Screenshots**
-
-<img width="1906" height="996" alt="image" src="https://github.com/user-attachments/assets/6af39e75-5193-40c8-8647-895624cf75b6" />
-<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/7e734995-418f-4493-9bb3-955140c85488" />
-<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/cd87a897-50e0-4c96-94be-43e0846bc238" />
-<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/55400ed0-3b2a-4c88-ae61-a3ebe735a436" />
----
-
-## 🚀 Features
-
-* 🎨 **Modern UI/UX** with black-based aesthetic theme used **FIgma Design**
-* ⚡ Smooth **Framer Motion** animations
-* 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
-* 📨 Functional contact form powered by **EmailJS**
-* 🧩 Responsive design for all screen sizes
+A modern, responsive, and interactive developer portfolio built using React, TypeScript, Vite, and Tailwind CSS. This portfolio showcases my projects, certifications, technical skills, achievements, blogs, and professional journey through a clean and engaging user experience.
 
 ---
 
-## 🛠️ Tech Stack
+---
 
-| Category            | Tools / Libraries                        |
-| ------------------- | ---------------------------------------- |
-| **Frontend**        | React.js, HTML5, CSS3,Typescript,tailwind CSS ,Figma |
-| **Styling**         | Tailwind CSS / Custom CSS                |
-| **Animation**       | Framer Motion                            |
-| **Contact Form**    | EmailJS                                  |
-| **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+## 📌 Overview
+
+This portfolio serves as my personal digital presence and highlights my expertise in:
+
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Frontend Development
+- UI/UX Design
+- Software Engineering
+
+The website is designed with smooth animations, responsive layouts, modern UI components, and an intuitive user experience.
 
 ---
 
-## ⚙️ Setup Instructions
+## ✨ Features
 
-To run this project locally:
+### 🏠 Home Section
+- Animated Hero Section
+- Professional Introduction
+- Social Media Links
+- Resume Access
+
+### 👨‍💻 About Section
+- Personal Overview
+- Educational Background
+- Career Objectives
+
+### 🛠 Skills Section
+- Programming Languages
+- Frameworks & Libraries
+- Tools & Technologies
+- Technical Expertise
+
+### 🚀 Projects Section
+
+Featured Projects:
+
+#### ⚔️ Quiz Arena Pro
+Gamified educational platform with leaderboards, achievements, quiz management, and performance analytics.
+
+#### 🎓 Campus Event Management System
+A complete event registration and student activity management platform with attendance tracking and admin dashboard.
+
+#### 🤖 DocuChat AI
+AI-powered PDF Question Answering Assistant using intelligent document analysis.
+
+#### 🩺 Diabetes Prediction System
+Machine Learning application that predicts diabetes risk using medical parameters.
+
+#### 💼 Expense Monitor
+Dark-themed finance dashboard with analytics and expense tracking.
+
+---
+
+### 🏆 Certifications
+
+Includes certifications from:
+
+- Deloitte
+- HackerRank
+- Infosys
+- TCS iON
+- LinkedIn Learning
+- Unstop
+- CodTech IT Solutions
+- InternPe
+
+---
+
+### 📝 Blogs Section
+
+Technical articles covering:
+
+- Artificial Intelligence
+- Software Development
+- Clean Coding Practices
+- Emerging Technologies
+
+---
+
+### 📄 Resume Section
+
+Visitors can directly view and download my latest resume.
+
+---
+
+### 📬 Contact Section
+
+Integrated contact form for professional networking and communication.
+
+---
+
+## 🎨 Design Features
+
+- Modern UI Design
+- Responsive Layout
+- Smooth Animations
+- Interactive Components
+- Dark Theme Experience
+- Mobile Friendly
+- Optimized Performance
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+
+### UI & Animation
+
+- Framer Motion
+- Lucide React
+- Radix UI
+
+### Routing
+
+- React Router DOM
+
+### Forms
+
+- React Hook Form
+
+### Email Integration
+
+- EmailJS
+
+---
+
+## 📂 Project Structure
 
 ```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunj-portfolio2.git
-
-# 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
-
-# 3️⃣ Install dependencies
-npm install
-
-# 4️⃣ Run development server
-npm start or npm run dev
+portfolio/
+│
+├── public/
+│   ├── certs/
+│   ├── gallery/
+│   ├── logos/
+│   ├── blog-images/
+│   └── resume/
+│
+├── src/
+│   ├── components/
+│   ├── styles/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── assets/
+│
+├── package.json
+├── vite.config.ts
+├── tailwind.config.js
+└── README.md
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shaik-asif967/Professional-Portfolio.git
+```
+
+Navigate to project folder:
+
+```bash
+cd Professional-Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
+
+```bash
+npm run dev
+```
+
+Build production version:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
 
 ---
 
-## 📬 Contact
+## 📱 Responsive Support
 
-If you’d like to collaborate or just say hi 👋, feel free to reach out!
+Optimized for:
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
-
----
-
-## 🌟 Deployment
-
-Deployed seamlessly on **Vercel** and **Netlify** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
 
 ---
 
-### 🏁 License
+## 🎯 Future Enhancements
 
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
+- AI Chat Assistant
+- Visitor Analytics
+- Theme Customization
+- Blog CMS Integration
+- Project Filtering System
+- Multi-language Support
 
 ---
 
-> *“Showcasing my work and passion through technology 💻”*
+## 👨‍💻 Author
 
+### Shaik Asif
+
+Full Stack Developer | AI/ML Enthusiast
+
+📧 Email: shaikasif2026@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/shaikasif369
+
+💻 GitHub:
+https://github.com/shaik-asif967
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+### 🚀 Building Intelligent Solutions Through Code & Creativity.
