@@ -1,4 +1,4 @@
-# 🌐 Asif Portfolio
+# 🌐 Shaik MAhammad Sameer Portfolio
 
 A modern, responsive, and interactive developer portfolio built using React, TypeScript, Vite, and Tailwind CSS. This portfolio showcases my projects, certifications, technical skills, achievements, blogs, and professional journey through a clean and engaging user experience.
 
