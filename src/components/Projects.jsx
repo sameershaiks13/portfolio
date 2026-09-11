@@ -5,67 +5,40 @@ import "./projects.css";
 
 const PROJECTS = [
   {
-    title: "🤖 AI-Powered Event Management System",
-
-    desc: "An intelligent event management platform that helps students discover, register for, and manage college events through dedicated Student and Admin portals.",
-
+    title: "🎓 College Event Management System",
+    desc: "A web-based platform designed to organize and manage college events efficiently. It helps students discover events while providing a structured digital experience for event coordination and management.",
     ss: "/event-management.png",
-
-    tech: ["HTML", "CSS", "JavaScript", "AI", "Machine Learning"],
-
-    live: "#",
-
-    code: "https://github.com/your-github-username/event-management-system",
+    tech: ["HTML", "CSS", "JavaScript"],
+    live: "https://event-management-system-inky-three.vercel.app/",
+    code: "#",
   },
+
   {
-    title: "🧠 Mental Health Analyzer",
-    desc: "NLP-based system that analyzes user text for anxiety, stress, and depression indicators.",
-    ss: "/mentalhealth.jpg",
-    tech: ["Python", "Transformers", "NLTK", "scikit-learn"],
-    live: "https://mental-health-analyzer.streamlit.app/",
-    code: "https://github.com/kunj2803/Mental-Health-Analyzer",
+    title: "🧠 SRBench – Structured Mathematical Reasoning Benchmark",
+    desc: "A research benchmark for evaluating the mathematical reasoning capabilities of Large Language Models by testing their ability to infer implicit mathematical rules from examples and solve unseen problems.",
+    ss: "/sr-bench.png",
+    tech: [
+      "Large Language Models",
+      "Machine Learning",
+      "Mathematical Reasoning",
+      "Benchmarking",
+      "AI Research",
+    ],
+    live: "https://www.researchgate.net/publication/403737193_SRBench_-Structured_Mathematical_Reasoning_Benchmark_for_Large_Language_Models",
+    code: "#",
   },
+
   {
-    title: "🤖 Indian Sign Language Interpreter",
-    desc: "Real-time gesture recognition using Mediapipe + TensorFlow for sign-to-text translation.",
-    ss: "/ISL.png",
-    tech: ["Mediapipe", "TensorFlow", "React", "Flask"],
-    live: "#",
-    code: "https://github.com/kunjdesai/ISL-Interpreter",
-  },
-  {
-    title: "💼 Portfolio Website",
-    desc: "Modern portfolio built with React + Framer Motion with smooth animations and clean UI.",
+    title: "💼 Personal Portfolio Website",
+    desc: "A modern and responsive portfolio website showcasing my projects, AI research, technical skills, professional experience, certifications, and achievements.",
     ss: "/portfolio.jpg",
-    tech: ["React", "Framer Motion", "Tailwind CSS"],
-    live: "https://kunj-desai.vercel.app/",
-    code: "https://github.com/kunj2803/Kunj-Portfolio",
-  },
-  {
-    title: "💬 DocuChat – Gemini AI Chatbot",
-    desc: "Gemini-powered PDF analyzer that answers queries from uploaded documents.",
-    ss: "/Docuchat.png",
-    tech: ["Gemini API", "LangChain", "Python", "Streamlit"],
-    live: "https://docuchat-chatbot.streamlit.app/",
-    code: "https://github.com/kunj2803/Docuchat-Chatbot",
-  },
-  {
-    title: "📊 ProfileX – Data Profiler",
-    desc: "Smart data profiling dashboard for CSV datasets — summary, visualization, and cleaning.",
-    ss: "/ProfileX.png",
-    tech: ["Streamlit", "Pandas", "Plotly"],
-    live: "https://profilex.streamlit.app/",
-    code: "https://github.com/kunjdesai/ProfileX",
-  },
-  {
-    title: "🧬 Breast Cancer Prediction",
-    desc: "ML pipeline using SVC, RF, and XGBoost with SMOTE for dataset balancing.",
-    ss: "/breastpred.jpg",
-    tech: ["scikit-learn", "XGBoost", "Pandas"],
-    live: "#",
-    code: "https://github.com/kunjdesai/BreastCancerPrediction",
+    tech: ["React", "JavaScript", "CSS", "Vercel"],
+    live: "https://portfolio-shaik-s1.vercel.app/",
+    code: "#",
   },
 ];
+```
+
 
 export default function Projects() {
   const sectionRef = useRef(null);
