@@ -5,12 +5,17 @@ import "./projects.css";
 
 const PROJECTS = [
   {
-    title: "🩺 Mammogram Malignancy Detector",
-    desc: "Hybrid CNN + YOLOv8 ensemble for full-image breast cancer detection with ROI preprocessing and sliding-window inference.",
-    ss: "/mamo.png",
-    tech: ["TensorFlow", "Keras", "OpenCV", "YOLOv8"],
+    title: "🤖 AI-Powered Event Management System",
+
+    desc: "An intelligent event management platform that helps students discover, register for, and manage college events through dedicated Student and Admin portals.",
+
+    ss: "/event-management.png",
+
+    tech: ["HTML", "CSS", "JavaScript", "AI", "Machine Learning"],
+
     live: "#",
-    code: "https://github.com/kunjdesai/mammo-detector",
+
+    code: "https://github.com/your-github-username/event-management-system",
   },
   {
     title: "🧠 Mental Health Analyzer",
