@@ -230,17 +230,17 @@ Optimized for:
 
 ## 👨‍💻 Author
 
-### Shaik Asif
+### Shaik Mahammad Sameer
 
 Full Stack Developer | AI/ML Enthusiast
 
-📧 Email: shaikasif2026@gmail.com
+📧 Email: shaikmohammedsameer13@gmail.com
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/shaikasif369
+https://www.linkedin.com/in/sameershaik13
 
 💻 GitHub:
-https://github.com/shaik-asif967
+https://github.com/sameershaiks13
 
 ---
 
