@@ -68,7 +68,7 @@ export default function App() {
       <footer className="relative border-t border-gray-200 dark:border-white/10 py-8">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <p className="text-gray-600 dark:text-white/60">
-            © 2025 Shaik Asif.
+            © 2026 Shaik Mahammad Sameer.
           </p>
         </div>
       </footer>
