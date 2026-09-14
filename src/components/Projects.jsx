@@ -7,7 +7,7 @@ const PROJECTS = [
   {
     title: "🎓 College Event Management System",
     desc: "A responsive web-based platform for managing college events, student registrations, attendance, certificates, OD requests, announcements, and administrative activities through dedicated student and admin dashboards.",
-    ss: "/event-management.png",
+    ss: "/p2.png",
     tech: ["HTML", "CSS", "JavaScript", "Local Storage"],
     live: "https://event-management-system-inky-three.vercel.app/",
     code: "https://github.com/sameershaiks13/event-management-system"
@@ -16,7 +16,7 @@ const PROJECTS = [
 {
     title: "⚙️ Distributed Job Scheduler",
     desc: "A distributed, multi-tenant job scheduling platform that manages priority queues, scheduled and recurring jobs, workers, retries, dead-letter queues, execution history, and real-time operational monitoring.",
-    ss: "/distributed-job-scheduler.png",
+    ss: "/p1.png",
     tech: ["Next.js", "React", "TypeScript", "FastAPI", "Python", "PostgreSQL", "Docker"],
     live: "#",
     code: "https://github.com/sameershaiks13/distributed-job-scheduler"
@@ -25,7 +25,7 @@ const PROJECTS = [
 {
     title: "🏏 IPL Winning Team Prediction",
     desc: "A machine learning web application that predicts the real-time winning probability of the batting team using IPL match data, current score, wickets, overs, target, run rates, match pressure, and other engineered features.",
-    ss: "/ipl-winning-team-prediction.png",
+    ss: "/p3.png",
     tech: ["Python", "Pandas", "NumPy", "Scikit-learn", "XGBoost", "Streamlit"],
     live: "#",
     code: "https://github.com/sameershaiks13/Ipl-Winning-Team-Predection"
@@ -34,7 +34,7 @@ const PROJECTS = [
 {
     title: "☁️ Microservices Deployment Lab",
     desc: "A hands-on DevOps and cloud-native project focused on containerizing, deploying, managing, and scaling microservices while demonstrating service orchestration, CI/CD workflows, and distributed application deployment.",
-    ss: "/microservices-deployment.png",
+    ss: "/p4.png",
     tech: ["Docker", "Kubernetes", "GitHub Actions", "Linux", "REST API", "Cloud/DevOps"],
     live: "#",
     code: "https://github.com/sameershaiks13/Microservices-Deployment-Lab-"
@@ -43,7 +43,7 @@ const PROJECTS = [
 {
     title: "🩺 Diabetes Prediction Using ML",
     desc: "A machine learning project that analyzes health-related parameters and applies classification techniques to predict diabetes risk, with data preprocessing, exploratory analysis, model training, evaluation, and feature-importance analysis.",
-    ss: "/diabetes-prediction.png",
+    ss: "/p5.png",
     tech: ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Jupyter"],
     live: "#",
     code: "https://github.com/sameershaiks13/diabetes-prediction-using-ml-"
@@ -52,7 +52,7 @@ const PROJECTS = [
 {
     title: "👁️ Eye Disease Classifier",
     desc: "A deep learning computer-vision project that analyzes retinal images and classifies eye-related conditions using a trained neural network, demonstrating image processing, model training, and medical image classification.",
-    ss: "/eye-disease-classifier.png",
+    ss: "/p6.png",
     tech: ["Python", "TensorFlow", "Keras", "OpenCV", "NumPy", "Jupyter"],
     live: "#",
     code: "https://github.com/sameershaiks13/eye-disease-classifier"
@@ -61,7 +61,7 @@ const PROJECTS = [
 {
     title: "🍔 Food Ordering Website",
     desc: "A responsive food ordering website that lets users explore menus, order food online, choose pickup options, book tables, view food details, and interact with a modern restaurant-focused interface.",
-    ss: "/food-ordering.png",
+    ss: "/p7.png",
     tech: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
     live: "#",
     code: "https://github.com/sameershaiks13/food-ordering-website"
