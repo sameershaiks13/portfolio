@@ -67,7 +67,7 @@ const PROJECTS = [
     code: "https://github.com/sameershaiks13/food-ordering-website"
 }
 ];
-```
+
 
 
 export default function Projects() {
